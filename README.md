@@ -55,11 +55,3 @@ The PDF Content Segmenter is a Java application that segments a PDF file into di
 
 - **Error: `java.io.IOException`**
   - Verify that the file is accessible and not corrupted.
-
-
-## Unit Testing
-
-1. **Run Unit Tests in Eclipse:**
-   - Right-click on the `PDFSegmenterTest.java` file in the `test` package.
-   - Select **Run As** > **JUnit Test**.
-   - The test results will be displayed in the JUnit view.
